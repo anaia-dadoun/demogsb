@@ -10,5 +10,6 @@ package Entity;
  * @author dadou
  */
 public class Medoc {
+    private int idMedoc;
     
 }
